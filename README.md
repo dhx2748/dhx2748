@@ -1,15 +1,14 @@
-# zh-CN:
-## 我是dhx2748,一个会C++,C,C#,Python,VBScript,Batch的小学生。
-
-# en:
-## I'm dhx2748,I can write C++,C,C#,Python,VBS,Batch's code.I'm a puple.
-
 ```cpp
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
-int main()
-{
-		    cout<<"Hello CPP!";
+int main(){
+    if(AK_IOI==true)cout<<R("______      ______  __  __      ______   _____   ______     
+/\__  _\    /\  _  \/\ \/\ \    /\__  _\ /\  __`\/\__  _\    
+\/_/\ \/    \ \ \L\ \ \ \/'/'   \/_/\ \/ \ \ \/\ \/_/\ \/    
+   \ \ \     \ \  __ \ \   <       \ \ \  \ \ \ \ \ \ \ \    
+    \_\ \__   \ \ \/\ \ \ \\`\      \_\ \__\ \ \_\ \ \_\ \__ 
+    /\_____\   \ \_\ \_\ \_\ \_\    /\_____\\ \_____\/\_____\
+    \/_____/    \/_/\/_/\/_/\/_/    \/_____/ \/_____/\/_____/");
 }
 ```
